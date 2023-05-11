@@ -1,12 +1,5 @@
-# test 1
+# communication test
 ## setup
-Describe your test setup
+Connected usb -> b051 -> b103 -> b118 for power and b118 -> b004 -> ethernet 2x and tested communication between them. 
 ## results
-Describe your results
-
-
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+fast communication was possible.
