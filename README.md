@@ -1,5 +1,5 @@
 # edgy_board number b118
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards).
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides a cheap 5 port 100BASE-T switch.
 
 ![](/board/board.png)
 
